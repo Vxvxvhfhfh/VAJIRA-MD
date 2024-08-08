@@ -11,7 +11,7 @@ const FOOTERNAME = 'Eoza atlas work';
 global.owner = process.env.OWNER_NUMBER  || '63685468' ;  // ADD YOUR NUMBER WITHOUT +
     
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || 'VAJIRA-MD=bRVXGajT#DG8nGV2XvJYVKjSfEaGvYp7kpuMwXBFO4H5Jb4PkYl0' ,
+SESSION_ID: process.env.SESSION_ID || 'VAJIRA-MD=nU1kBBSL#FGOSjhDLpADue-ZkrdDlu905Dw2rIUqm-ZYTZSGojN4' ,
 travaSend: process.env.TRAVA_SEND || '25' ,   
 MODERATORS : process.env.MODERATORS === undefined ? "94772801923,94787820101" : process.env.MODERATORS ,    
 MAX_SIZE: process.env.MAX_SIZE === undefined ? '1536': process.env.MAX_SIZE,/*add this in megabytes*/    
